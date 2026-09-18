@@ -153,12 +153,6 @@ The analysis was transformed into an interactive Power BI dashboard containing:
 
 The analysis shows that the e-commerce business has a strong sales base, with Electronics and Clothing contributing the largest share of revenue and orders. The West region is the leading revenue contributor, while Card is the most preferred payment method. However, monthly revenue fluctuates and some categories perform below others. Management should maintain the strongest-performing areas while improving weaker categories and reducing sales fluctuations to achieve more consistent and sustainable growth.
 
-## Project Files
-
-- `ecommerce_sales_analysis.xlsx` — Excel analysis
-- `ecommerce_sales_dashboard.pbix` — Power BI dashboard
-- `ecommerce_sales.csv` — Dataset
-
 ## About Me
 
 **Olaoluwa Olokodana**
